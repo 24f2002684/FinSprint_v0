@@ -232,4 +232,4 @@ Evaluation based on:
 ## 🎥 Demo Video
 
 👉 **Google Drive Link:**  
-https://drive.google.com/file/d/1RXWTS4pxnfdFA7aPIfBm9iRQaR1B4ImH/view?usp=sharing
+[Watch Demo Video](https://drive.google.com/file/d/1RXWTS4pxnfdFA7aPIfBm9iRQaR1B4ImH/view?usp=sharing)
