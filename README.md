@@ -1,6 +1,4 @@
-# Create the README.md file with the provided content
-
-🚀 FinSprint – Gamified Financial Learning & Virtual Trading Platform  
+# 🚀 FinSprint – Gamified Financial Learning & Virtual Trading Platform  
 
 > 🏆 Built as part of **Vashisht 3.0 Hackathon, Savara 2026, IIITDM Kancheepuram**
 
