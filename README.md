@@ -1,12 +1,11 @@
 # Create the README.md file with the provided content
 
-content = """# 🚀 FinSprint – Gamified Financial Learning & Virtual Trading Platform  
+🚀 FinSprint – Gamified Financial Learning & Virtual Trading Platform  
 
 > 🏆 Built as part of **Vashisht 3.0 Hackathon, Savara 2026, IIITDM Kancheepuram**
 
 ---
 ## Team Name: Tech Titans Go!
--- 
 
 ## 👥 Team Members
 
@@ -218,26 +217,21 @@ Evaluation based on:
 
 ## 📸 Screenshots
 
-[<img width="1470" height="889" alt="image" src="https://github.com/user-attachments/assets/65844425-3a98-49e0-ab55-3a52cf93565c" />
-]  
-[<img width="1461" height="1014" alt="image" src="https://github.com/user-attachments/assets/891941a2-e244-43f2-9c10-d5361f716ce4" />
-]  
-[<img width="1478" height="891" alt="image" src="https://github.com/user-attachments/assets/8ec8d704-4feb-4f7c-a1f1-e38d4092a69c" />
-]  
-[<img width="687" height="694" alt="image" src="https://github.com/user-attachments/assets/7afa7c54-958b-44eb-b4e1-b5e8d67e48cc" />
-]  
-[<img width="1449" height="891" alt="image" src="https://github.com/user-attachments/assets/bab76f5f-3695-4cbc-bb82-eec7c93b6bfa" />
-]
-[<img width="1478" height="1012" alt="image" src="https://github.com/user-attachments/assets/f520c78a-5314-45d9-93c3-800a217eeb41" />
-]
-[<img width="548" height="896" alt="image" src="https://github.com/user-attachments/assets/2a25e6ea-6eed-4753-a02e-b51b00706c5e" />
-]
+<img width="1470" height="889" alt="image" src="https://github.com/user-attachments/assets/65844425-3a98-49e0-ab55-3a52cf93565c" />
+<img width="1461" height="1014" alt="image" src="https://github.com/user-attachments/assets/891941a2-e244-43f2-9c10-d5361f716ce4" />  
+<img width="1478" height="891" alt="image" src="https://github.com/user-attachments/assets/8ec8d704-4feb-4f7c-a1f1-e38d4092a69c" />
+  
+<img width="687" height="694" alt="image" src="https://github.com/user-attachments/assets/7afa7c54-958b-44eb-b4e1-b5e8d67e48cc" />
+  
+<img width="1449" height="891" alt="image" src="https://github.com/user-attachments/assets/bab76f5f-3695-4cbc-bb82-eec7c93b6bfa" />
 
+<img width="1478" height="1012" alt="image" src="https://github.com/user-attachments/assets/f520c78a-5314-45d9-93c3-800a217eeb41" />
+
+<img width="548" height="896" alt="image" src="https://github.com/user-attachments/assets/2a25e6ea-6eed-4753-a02e-b51b00706c5e" />
 
 ---
 
 ## 🎥 Demo Video
 
 👉 **Google Drive Link:**  
-[https://drive.google.com/file/d/1RXWTS4pxnfdFA7aPIfBm9iRQaR1B4ImH/view?usp=sharing]
-"""
+https://drive.google.com/file/d/1RXWTS4pxnfdFA7aPIfBm9iRQaR1B4ImH/view?usp=sharing
